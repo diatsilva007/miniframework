@@ -1,5 +1,6 @@
 <?php
 
-    echo 'App 10';
+    require_once "../vendor/autoload.php";
+    echo 'Isso está funcionando!';
 
 ?>
